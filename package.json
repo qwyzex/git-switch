@@ -1,5 +1,5 @@
 {
-  "name": "git-switch",
+  "name": "@qwyzex/git-switch",
   "version": "1.0.1",
   "description": "Module for quickly switching between git users",
   "main": "index.js",
