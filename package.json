@@ -1,14 +1,23 @@
 {
   "name": "git-switch",
   "version": "1.0.0",
-  "description": "",
+  "description": "Module for quickly switching between git users",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["git", "switch"],
+  "author": {
+    "name": "qwyzex",
+    "email": "qwyzex@gmail.com",
+    "url": "https://qwyzex.netlify.com"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "/",
+    "url": "https://github.com/qwyzex/git-switch.git"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.0",
