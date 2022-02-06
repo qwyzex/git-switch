@@ -1,13 +1,16 @@
 {
   "name": "git-switch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for quickly switching between git users",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["git", "switch"],
+  "keywords": [
+    "git",
+    "switch"
+  ],
   "author": {
     "name": "qwyzex",
     "email": "qwyzex@gmail.com",
